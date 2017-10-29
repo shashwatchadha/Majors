@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72730" started-at="2017-10-29T13:12:01Z" finished-at="2017-10-29T13:13:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72730" started-at="2017-10-29T13:12:01Z" finished-at="2017-10-29T13:13:14Z">
+      <class name="com.mySeleniumFrameWork.testCases.TC_2">
+        <test-method status="PASS" signature="suiteSetUp()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="suiteSetUp" is-config="true" duration-ms="15" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeTest" is-config="true" duration-ms="0" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeMethod" is-config="true" duration-ms="15637" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_2.testcase1() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeMethod" is-config="true" duration-ms="14581" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_2.testcase5() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="testcase5" duration-ms="7535" started-at="2017-10-29T18:42:16Z" finished-at="2017-10-29T18:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="testcase1" duration-ms="7272" started-at="2017-10-29T18:42:17Z" finished-at="2017-10-29T18:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeMethod" is-config="true" duration-ms="14328" started-at="2017-10-29T18:42:22Z" finished-at="2017-10-29T18:42:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_2.testcase4() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterMethod" is-config="true" duration-ms="753" started-at="2017-10-29T18:42:23Z" finished-at="2017-10-29T18:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeMethod" is-config="true" duration-ms="16726" started-at="2017-10-29T18:42:24Z" finished-at="2017-10-29T18:42:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_2.testcase6() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterMethod" is-config="true" duration-ms="1834" started-at="2017-10-29T18:42:24Z" finished-at="2017-10-29T18:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeMethod" is-config="true" duration-ms="12428" started-at="2017-10-29T18:42:26Z" finished-at="2017-10-29T18:42:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_2.testcase7() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="testcase4" duration-ms="11833" started-at="2017-10-29T18:42:37Z" finished-at="2017-10-29T18:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="testcase7()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="testcase7" duration-ms="9818" started-at="2017-10-29T18:42:38Z" finished-at="2017-10-29T18:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+        <test-method status="PASS" signature="testcase6()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="testcase6" duration-ms="8567" started-at="2017-10-29T18:42:41Z" finished-at="2017-10-29T18:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterMethod" is-config="true" duration-ms="979" started-at="2017-10-29T18:42:48Z" finished-at="2017-10-29T18:42:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterMethod" is-config="true" duration-ms="1275" started-at="2017-10-29T18:42:49Z" finished-at="2017-10-29T18:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="beforeMethod" is-config="true" duration-ms="12182" started-at="2017-10-29T18:42:49Z" finished-at="2017-10-29T18:43:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_2.testcase3() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterMethod" is-config="true" duration-ms="1019" started-at="2017-10-29T18:42:49Z" finished-at="2017-10-29T18:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="testcase3" duration-ms="11717" started-at="2017-10-29T18:43:01Z" finished-at="2017-10-29T18:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterMethod" is-config="true" duration-ms="804" started-at="2017-10-29T18:43:13Z" finished-at="2017-10-29T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-10-29T18:43:14Z" finished-at="2017-10-29T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-10-29T18:43:14Z" finished-at="2017-10-29T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_2@56f4468b]" name="afterSuite" is-config="true" duration-ms="0" started-at="2017-10-29T18:43:14Z" finished-at="2017-10-29T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.mySeleniumFrameWork.testCases.TC_2 -->
+      <class name="com.mySeleniumFrameWork.testCases.TC_1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeMethod" is-config="true" duration-ms="15529" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_1.testCase10() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeMethod" is-config="true" duration-ms="16629" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_1.testCase12() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeMethod" is-config="true" duration-ms="15758" started-at="2017-10-29T18:42:01Z" finished-at="2017-10-29T18:42:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_1.testCase11() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase10()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="testCase10" duration-ms="5119" started-at="2017-10-29T18:42:17Z" finished-at="2017-10-29T18:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+        <test-method status="PASS" signature="testCase11()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="testCase11" duration-ms="5113" started-at="2017-10-29T18:42:17Z" finished-at="2017-10-29T18:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase11 -->
+        <test-method status="PASS" signature="testCase12()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="testCase12" duration-ms="5118" started-at="2017-10-29T18:42:18Z" finished-at="2017-10-29T18:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase12 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterMethod" is-config="true" duration-ms="793" started-at="2017-10-29T18:42:22Z" finished-at="2017-10-29T18:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterMethod" is-config="true" duration-ms="725" started-at="2017-10-29T18:42:22Z" finished-at="2017-10-29T18:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeMethod" is-config="true" duration-ms="16264" started-at="2017-10-29T18:42:23Z" finished-at="2017-10-29T18:42:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_1.testCase20() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterMethod" is-config="true" duration-ms="1217" started-at="2017-10-29T18:42:23Z" finished-at="2017-10-29T18:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeMethod" is-config="true" duration-ms="24206" started-at="2017-10-29T18:42:24Z" finished-at="2017-10-29T18:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_1.testCase1() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase20()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="testCase20" duration-ms="5115" started-at="2017-10-29T18:42:39Z" finished-at="2017-10-29T18:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase20 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterMethod" is-config="true" duration-ms="839" started-at="2017-10-29T18:42:44Z" finished-at="2017-10-29T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="beforeMethod" is-config="true" duration-ms="23030" started-at="2017-10-29T18:42:45Z" finished-at="2017-10-29T18:43:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mySeleniumFrameWork.testCases.TC_1.testCase2() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="testCase1" duration-ms="5137" started-at="2017-10-29T18:42:48Z" finished-at="2017-10-29T18:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterMethod" is-config="true" duration-ms="1073" started-at="2017-10-29T18:42:53Z" finished-at="2017-10-29T18:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="testCase2" duration-ms="5127" started-at="2017-10-29T18:43:08Z" finished-at="2017-10-29T18:43:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterMethod" is-config="true" duration-ms="733" started-at="2017-10-29T18:43:13Z" finished-at="2017-10-29T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.mySeleniumFrameWork.testCases.TC_1@735b5592]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-10-29T18:43:14Z" finished-at="2017-10-29T18:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mySeleniumFrameWork.testCases.TC_1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
